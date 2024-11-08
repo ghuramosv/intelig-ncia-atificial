@@ -1,1 +1,1 @@
-# intelig-ncia-atificial
+# inteligência-atificial
